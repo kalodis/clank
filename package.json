@@ -1,0 +1,35 @@
+{
+  "name": "botlad",
+  "version": "1.0.2",
+  "description": "Twitch Chat Bot",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalodis/botlad.git"
+  },
+  "keywords": [
+    "twitch",
+    "twitch.tv",
+    "stream",
+    "broadcast",
+    "bot",
+    "message",
+    "ws",
+    "robot",
+    "interface",
+    "subscriber"
+  ],
+  "author": "Kalodis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kalodis/botlad/issues"
+  },
+  "homepage": "https://github.com/kalodis/botlad#readme"
+}
