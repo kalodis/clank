@@ -24,4 +24,4 @@ $ npm i botlad
 
 
 ## 
-Thank you for checking out Clank.io <Those who do not know CLANK is a fork of TMI.js (Which is now depreicated)>
+Thank you for checking out Clank.io <Those who do not know CLANK is a fork of TMI.js (Which is now depreicated)> Check out the orignal post here: https://github.com/tmijs/tmi.js
