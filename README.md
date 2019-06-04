@@ -16,7 +16,7 @@ This module currently supports [Node.js 7.x](https://nodejs.org/en/download/) an
 ### Node
 
 ```bash
-$ npm i clank
+$ npm i clank.io
 ```
 #### Prebuilt Releases
 
